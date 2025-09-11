@@ -20,6 +20,9 @@ const index = () => {
       <Link href={"/layout_task"} style={styles.link}>
         Layout Task
       </Link>
+      <Link href="/timeline" style={styles.linkTexts}>
+          Timeline
+        </Link>
     </View>
   );
 };
