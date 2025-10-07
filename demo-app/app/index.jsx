@@ -11,7 +11,7 @@ const index = () => {
       <Link href={"/second"} style={styles.link}>
         Click To Show Second Screen
       </Link>
-      <Link href={"/colors"} style={styles.link}>
+      <Link href={"/colors4"} style={styles.link}>
         Colors
       </Link>
       <Link href={"/box"} style={styles.link}>
